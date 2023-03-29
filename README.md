@@ -7,6 +7,9 @@
 - [javascript Algorithms](https://github.com/siba-x-prasad/javascript-algorithms)
 - [Clean Code Javascript](https://github.com/siba-x-prasad/clean-code-javascript)
 - [JS Resourses](https://github.com/siba-x-prasad/javascriptResources)
+- [Airbnb JavaScript](https://github.com/airbnb/javascript)
+- [JS Questions](https://github.com/lydiahallie/javascript-questions)
+- [33 JS Concept](https://github.com/leonardomso/33-js-concepts)
 
 ## 1. [Introduction](https://github.com/spdobest/JavaScriptUdemy/blob/master/ReadMe/1.introduction.md)
 ## 2. [Syntax and Variable](https://github.com/spdobest/JavaScriptUdemy/blob/master/ReadMe/2.SyntaxAndVariable.md)
