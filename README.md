@@ -1,7 +1,8 @@
 # Java Script Tutorials
 
 ## LINKS
-
+- [Javascript Info](https://javascript.info/)
+- [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Javascript](https://github.com/siba-x-prasad/javascript)
 - [Javascript For Beginner](https://github.com/siba-x-prasad/javascript-beginners-tutorial)
 - [JavaScript30](https://github.com/siba-x-prasad/Useful_JavaScript30)
